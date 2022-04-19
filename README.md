@@ -5,7 +5,7 @@
 ##
 Tamra's Cloud Journey
 
-Hello, I'm Tamra. I started this challenge to create a clear cloud practice with deadlines and to build a portfolio to show potential employers my cloud computing skills. I am also networking, collaborating, learning, and supporting other cloud engineers. Also, it's fun :)
+Hello, I'm Tamra. I started this challenge to create a clear and routine cloud practice and to build a portfolio for potential employers. I am also networking, collaborating, learning, and supporting other cloud engineers. Also, it's fun :)
 
 I hope at the end of this challenge I'll have a nice list of projects showcasing what I can do. 
 
